@@ -1,1 +1,1 @@
-live page : [biker-zone](https://enchanting-malasada-cd68a9.netlify.app/)
+live page : [biker-zone](https://biker-zone-landing-page.netlify.app/)
